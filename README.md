@@ -1,3 +1,3 @@
 # testingDemostraction
 
-For git ability demonstration purposes!
+For git ability demonstration purposes.
